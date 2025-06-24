@@ -1,7 +1,7 @@
 # Manufacturing Analysis Dashboard
 
 <p align="center">
-  <img src="assets/manufacturing_banner.gif" alt="Manufacturing Analysis Dashboard" width="100%">
+  <img src="Dashboards/Manufacturing Dashboard Tableau.png" alt="Manufacturing Analysis Dashboard" width="100%">
 </p>
 
 ## 📌 Overview
